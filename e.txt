@@ -1,0 +1,8 @@
+
+hi this is seshu 
+this my first inserting  tes
+hi how to terminita the file hi this second time inserting using vi a.txt file 
+
+hi this is the 3 time i am inserting the text using vi filename
+ho w to save the file we have follow two steps i si esc :wq will be save the file
+t
