@@ -2,3 +2,4 @@
 hi i am using vi commind to create the file and open the file
 to isert i am using i >> to save the file esc >> :wq
 
+hi this is 
