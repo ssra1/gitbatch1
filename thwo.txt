@@ -1,1 +1,2 @@
-hi i am changing the file using rebase command
+hi i am changing the file using rebase command 
+this second line 
